@@ -1,0 +1,5 @@
+# Cthulhu — contrat de travail des agents
+
+Ce dossier est autonome pour la préparation d'illustrations et de comics. Lire `docs/INDEX.md` puis le workflow de la tâche. Les documents de `reference/holt/` sont des exemples et une archive de travail, pas le scénario, le style ni les règles de Cthulhu. Ne pas inventer de décision artistique validée ni supposer un scénario existant.
+
+Conserver les sources, les références et les éditions existantes. Documenter dans `docs/` le récit, les décisions, bibles, prompts exacts, provenance, état et résultats de revue. Ranger les images de référence propres au projet dans `references/`, les masters et livres dans `art-masters/`. Ne pas exposer de secrets ni enregistrer de jetons. Adapter le format à la demande ; ne pas imposer le format de HOLT. Utiliser les outils image et PDF disponibles dans la session : un fichier de skill ne fournit pas lui-même un service. Vérifier visuellement les images et les livres ; distinguer revue de l'agent et validation humaine. Ne pas lancer de sous-agents sans autorisation applicable ; si la délégation est autorisée, définir objectif, fichiers, coordination et preuves.
